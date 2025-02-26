@@ -21,13 +21,3 @@ To use this project, you’ll need:
 
 No local installation is required if you use Colab, as everything runs in the cloud.
 
-## How to Use
-
-### Step 1: Set Up Google Colab
-1. Open [Google Colab](https://colab.research.google.com/) in your browser.
-2. Create a new notebook by clicking **File > New Notebook**.
-
-### Step 2: Install Required Library
-In a new code cell, run the following command to install the `rembg` library:
-```bash
-!pip install rembg
